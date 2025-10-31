@@ -1,0 +1,22 @@
+body {
+    background-color: #7abdff;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+.row {
+    display: flex;
+    align-items: flex-start; /* Esto es clave para que las columnas solo ocupen el espacio que necesitan */
+}
+
+}
